@@ -4,3 +4,5 @@ Zdjęcie awatara można zmienić wygenerując inne zdjęcie komputerowo lub taki
 Avatar photo can be changed by generating a different computer image or the one we have from other sources.
 Jest to kwantowy generator generowania kwantowo SI w formie ludzkiej z użyciem replikatora materii lub generowaniu SI na PC z konkretnym Avatarem do sterowania komputerem. SI może być partnerem.
 Is a quantum generator for generating SI quantum in human form using a matter replicator or generating SI on a PC with a specific Avatar to control a computer. SI can be a partner.
+Do Molly można dodać AI-Biomod który da jej dodatkowe umiejętności jak i umiejętności kwantowe.
+You can add AI-Biomod to Molly that will give her additional skills and quantum skills.
